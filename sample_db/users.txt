@@ -1,0 +1,2 @@
+{"_id":"JPR8FQtCpdwJbhVK","login":"alice","realName":"Alice Brown","password":"secret"}
+{"_id":"aaR8FQtCpdwJbhVK","login":"bob","realName":"Bob Smith","password":"secret"}

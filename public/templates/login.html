@@ -1,0 +1,18 @@
+<div ng-controller="LoginCtrl">
+
+  <div class="row">
+    <div class="col-lg-4 col-lg-offset-4">
+      <div class="alert alert-danger" ng-show="notice">Could not sign in</div>
+      <form name="loginForm" novalidate>
+        <div class="form-group">
+          <input type="text" ng-model="user.login" class="form-control" placeholder="Login" required>
+        </div>
+        <div class="form-group">
+          <input type="password" ng-model="user.password" class="form-control" placeholder="Password" required>
+        </div>
+        <button class="btn btn-default" ng-disabled="loginForm.$invalid" ng-click="signIn()">Sign in to Lunchy</button>
+      </form>
+    </div>
+  </div>
+
+</div>

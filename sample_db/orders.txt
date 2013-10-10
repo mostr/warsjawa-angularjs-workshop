@@ -1,0 +1,2 @@
+{"_id":"7FVH4dRME9RjPTel","restaurantId":"7O0RHYoaACDcCKS6","ownerId":"aaR8FQtCpdwJbhVK","status":"OPEN","items":[{"ownerId":"aaR8FQtCpdwJbhVK","name":"Naleśniki na słodko","price":"12"},{"ownerId":"JPR8FQtCpdwJbhVK","name":"Naleśniki z cukrem","price":"33"}]}
+{"_id":"J3emqhZ0bhWU6COJ","restaurantId":"JjPmKYU9Iu28KrFd","ownerId":"aaR8FQtCpdwJbhVK","status":"CLOSED","items":[{"ownerId":"aaR8FQtCpdwJbhVK","name":"Hawajska","price":"33"}]}
